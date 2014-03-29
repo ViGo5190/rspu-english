@@ -1,0 +1,179 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{bib102}
+\selectlanguageifdefined{russian}
+История развития информатики.
+\newblock \url{http://inf1.info/informaticshistory}.
+\newblock 2011.  02.{}
+
+\bibitem{bib103}
+\selectlanguageifdefined{russian}
+Информация и общественное развитие.
+\newblock \url{http://goo.gl/I8MhHk}.
+\newblock 2011.{}
+
+\bibitem{bib104}
+\selectlanguageifdefined{russian}
+Информация и общественное развитие -
+  книгопечатание.
+\newblock \url{http://goo.gl/4MWcOK}.
+\newblock 2011.  05.{}
+
+\bibitem{bib202}
+\selectlanguageifdefined{english}
+A~L.~G. Dictionnairie de l’informatique.
+\newblock Paris: Presses Universitaires de France, 1982.{}
+
+\bibitem{bib203}
+\selectlanguageifdefined{russian}
+Большая советская энциклопедия.
+\newblock 3 {изд.}
+\newblock М.: Советская энциклопедия, 1972.
+\newblock Т.~10.{}
+
+\bibitem{bib204}
+\selectlanguageifdefined{russian}
+А.И. Михайлов, А.И. Черный, Р.С. Гиляревский.
+  Основы информатики.
+\newblock М.: Наука, 1968.{}
+
+\bibitem{bib205}
+\selectlanguageifdefined{russian}
+Инфосфера: информационные структуры,
+  системы и процессы в науке и обществе~/
+  ~Ю.М.~Арский, ~Р.С.~Гиляревский, ~И.С.~Туров
+  {[и~др.]}.
+\newblock М.: ВИНИТИ, 1996.{}
+
+\bibitem{bib206}
+\selectlanguageifdefined{russian}
+Гиляревский Р.С. Информатика как наука об
+  информации. (Наст. сборник).{}
+
+\bibitem{bib207}
+\selectlanguageifdefined{russian}
+Соколов А.В., Манкевич А.И. Информатика в
+  перспективе: к вопросу о классификации
+  видов информации и системе наук
+  коммуникационного цикла. //
+  Научно-техническая информация. 10 {№}~2.
+\newblock 1971.{}
+
+\bibitem{bib201}
+\selectlanguageifdefined{russian}
+Колин К.К. Становление информатики как
+  фундаментальной науки и комплексной
+  научной проблемы. Сб. н. тр. //Системы и
+  средства информатики. Спец. вып.
+  Научно-методологические проблемы
+  информатики.
+\newblock М.: ИПИ РАН, 2006.{}
+
+\bibitem{bib301}
+\selectlanguageifdefined{russian}
+К.К. Колин. Будущее информатики в 21 веке:
+  российский ответ на американский
+  вызовБудущее информатики в 21 веке:
+  российский ответ на американский вызов~//
+  Открытое образование.
+\newblock 2006.
+\newblock {№}~2(55).{}
+
+\bibitem{bib208}
+\selectlanguageifdefined{russian}
+Развитие определений «информатика» и
+  «информационные технологии»~/ {под ред.
+  }~И.А.~Мизина.
+\newblock М.: ИПИ АН СССР, 1991.{}
+
+\bibitem{bib209}
+\selectlanguageifdefined{russian}
+Колин К.К. О структуре научных исследований
+  по комплексной проблеме «Информатика»~//
+  Сб. н. тр. «Социальная информатика».
+\newblock М.: ВКШ при ЦК ВЛКСМ, 1990.{}
+
+\bibitem{bib302}
+\selectlanguageifdefined{russian}
+К.К. Колин. Феномен информации и
+  философские основы информатики.~// «Alma mater»
+  (Вестник высшей школы).
+\newblock 2004.
+\newblock Т.~11, {№}~11.
+\newblock {С.}~33--382.{}
+
+\bibitem{bib210}
+\selectlanguageifdefined{russian}
+Колин К.К. Информатика в системе
+  опережающего образования. Доклад на 2-м
+  Международном конгрессе ЮНЕСКО
+  «Образование и информатика»~// Вестник
+  Российского общества информатики и
+  вычислительной техники.
+\newblock 1996.{}
+
+\bibitem{bib211}
+\selectlanguageifdefined{russian}
+Колин К.К. Социальная информатика: Учебное
+  пособие для вузов.
+\newblock М.: Академический Проект, 2003.{}
+
+\bibitem{bib303}
+\selectlanguageifdefined{russian}
+К.К. Колин. Эволюция информатики~//
+  Информационные технологии.
+\newblock 2005.
+\newblock Т.~1, {№}~1.
+\newblock {С.}~2--16.{}
+
+\bibitem{bib105}
+\selectlanguageifdefined{russian}
+Колин К.К. История отечественной
+  вычислительной техники //История развития
+  информатики как фундаментальной науки.
+\newblock \url{http://goo.gl/iX48jk}.
+\newblock 2011.{}
+
+\bibitem{bib212}
+\selectlanguageifdefined{russian}
+К.К. Колин. Философские проблемы
+  информатики.
+\newblock М.: БИНОМ. Лаборатория знаний, 2010.{}
+
+\bibitem{bib213}
+\selectlanguageifdefined{russian}
+Урсул А.Д. Природа информации. Философский
+  очерк.
+\newblock М.: Политиздат, 1968.{}
+
+\bibitem{bib214}
+\selectlanguageifdefined{russian}
+Несговорова Г.П. БИОИНФОРМАТИКА: ПУТИ
+  РАЗВИТИЯ И ПЕРСПЕКТИВЫ.
+\newblock \url{http://goo.gl/OqIzQN}.{}
+
+\bibitem{bib304}
+\selectlanguageifdefined{russian}
+К.К. Колин. ИНФОРМАТИКА КАК ФУНДАМЕНТАЛЬНАЯ
+  НАУКА~// Методы и технологии
+  информатизации управленческой
+  деятельности: Сборник статей~/ {под ред.
+  }~А.Н.~Данчула.
+\newblock М.: Изд-во РАГС, 2007.
+\newblock {С.}~8--22.{}
+
+\bibitem{bib215}
+\selectlanguageifdefined{russian}
+Понятие информатизации. Роль
+  информатизации в развитии общества.
+\newblock \url{http://goo.gl/Feva5S}.
+\newblock 2011.{}
+
+\end{thebibliography}
